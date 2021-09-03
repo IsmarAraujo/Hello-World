@@ -1,2 +1,2 @@
 # Hello-World
-Repository do lean how to use git.
+Repository to learn how to use git.
